@@ -1,0 +1,18 @@
+{
+  "name": "mean",
+  "version": "0.0.0",
+  "description": "Edu project using MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "MEAN",
+    "NODE",
+    "ANGULAR",
+    "MONGO",
+    "FULLSTACK"
+  ],
+  "author": "froz-ferre",
+  "license": "MIT"
+}
